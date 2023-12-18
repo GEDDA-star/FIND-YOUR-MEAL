@@ -1,4 +1,4 @@
-🪧 Demo :-  
+🪧 Demo :-  https://prismatic-pony-c20756.netlify.app
 🪧 Demo :-  https://github.com/GEDDA-star/FIND-YOUR-MEAL.git
 
 ---
